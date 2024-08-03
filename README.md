@@ -31,6 +31,6 @@
     </style>
 </head>
 <body>
-    <a href="https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&scope=bot&permissions=0" class="invite-button">Invite Rejoiner Bot</a>
+    <a href="https://discord.com/oauth2/authorize?client_id=1267481944107651092&scope=bot&permissions=0" class="invite-button">Invite Rejoiner Bot</a>
 </body>
 </html>
